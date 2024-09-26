@@ -83,7 +83,7 @@ Bonfire 1
 Bonfire 2
 Fuego
 Stretch
-Class21
+CharJourney
 class22
 Class23
 Class24
