@@ -1,0 +1,172 @@
+#### FIT FACTORY CLASS NAMES ####
+REACTOR
+Core Quest
+Hero Academy
+Sports Ball
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+Heart Month
+Fish Factory V1
+Fish Factory V2
+Fish Factory UPPER
+Fish Factory LOWER
+Fish Factory CORE
+Fish Factory CARDIO
+Fish Factory 100
+Fuego
+Fish Challenge
+April Fools
+Knockout
+Valhalla
+Flex Forge
+Valha Broken
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+
+#### FIT FACTORY CLASS HEX ####
+D49019
+73DB00
+E5E5E5
+4EA577
+000000
+000000
+000000
+000000
+000000
+DF4642
+4D8DBE
+4D8DBE
+82ACA1
+113C76
+F4BCCF
+EE9B76
+EB0D0D
+FF5757
+4D8DBE
+FF9F10
+FF0000
+13548D
+A6AAB5
+13548D
+000000
+000000
+000000
+000000
+000000
+000000
+
+#### ADVENTURE MODE BANNER NAMES ####
+Adventure
+3.0 Launch
+Class3
+Fuego
+Class5
+Class6
+Class7
+Class8
+Class9
+shuffle
+Meadows 1
+Meadows 2
+Blue 1
+Blue 2
+SAT 1
+SAT 2
+Bonfire 1
+Bonfire 2
+Fuego
+Stretch
+Class21
+class22
+Class23
+Class24
+Class25
+Class26
+Class27
+woaa banner name
+Wowwiieee 29
+Class30
+
+#### ADVENTURE MODE BANNER HEX ####
+07c9f0
+fca815
+000000
+fa938b
+000000
+000000
+000000
+000000
+000000
+ff0000
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+FF5757
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+FF5733
+000000
+000000
+
+#### ADVENTURE MODE VIDEO NAMES ####
+MM-A
+MM-B
+Blue-A
+Sat-A
+Sat-B
+BB-A
+BB-RACE
+Video8
+Video9
+ARC Time Att
+Meadows Var-1
+Meadows Var-2
+Blue Var-1
+Blue Var-2
+SAT Var-1
+SAT Var-2
+Beach Var-1
+Beach Var-2
+Fuego,Fuego Pre
+Blue Bossun
+Video22
+Video23
+Video24
+Video25
+Video26
+Video27
+END Fuego
+END-A
+END-B
+
+#### CONSOLE ENTITY ####
+RC
+
+#### CONSOLE MESSAGE #### use <br> instead of enter, message has to be on one line
+SAT_TRAVEL_ACCESS = True<br>Meadows<br>Boundless Blue<br>MASTER_SAT_001<br>Beach<br><br>Please explore the newly located zones. Standby for further Mighterium extraction instructions.<br>END_MSG
+
+#### MEMBERS ####
+AyumiKoi;Beany`;Bossun21;Gawain!;KaWaii_Sku11;Kugo;Luxifinity;Mixieǃ;~Silentt~;-Axer-;1AGuy;aaliyah1023;AbbiDuckAvali;AriesLatte;Azell;beheheh;Bimler;blackout_avali;BlackRoseThorns;Celia Trestia;ChepFoorie;connortron;Cookie597;Couper;Crow_Se7en;CurtisVL;DaBloodyResh;Dawnday;DISCORDTM306;Doruvon;DoubleDoubleD;DragonsofMania;Drakkius;Duest;ElegantPotato;EmberTalks;Eslaifer;EZZE;Feilen;FlareRune;Hangyaku;Heather May;Hex2906;King1656;Kire ｶｲｱ;Koi Fish Kai;Kyou Ki;Kyupus;Laskvurel;lavaglijder;LF Headpats;LisActivElite;luckygoodtime;MatterH0rn;Medx_ii;Michael21D;MichelleDB;MiisterC;Mike Da Bird;Molly Lovewing;Nosjo;PartyBas;Pearsall;Polaris°;PrincessJess;RDSparkle;RedVelvetCake;SamTheSilkie;Sapphirekatt;Shano Zen;SkrapKat;SleepieDragon;Snow Totem;Soukiie;SpeedyNova115;StarlightPastel;Succubus Jade;Talii-bit;TechnoF0x;TehDerpinatorVR;Tizzy;tom2609;TonyMacaron1;Univision;VennyStar;W01fc1aw;Wall Flowrawr;XAstroboomX;~ Tori ~;~Tarky;Κitsune;ＳＴＡＲＢＯＹ©;
+
+#### VIPs ####
+Cakelington;Katsumi001;PurdieDaBird;Jinxed-Amy;༒CookieMonster༒;Chardora;PartyBas;
+
+## END
