@@ -145,7 +145,8 @@ SAT Var-1
 SAT Var-2
 Beach Var-1
 Beach Var-2
-Fuego,Fuego Pre
+Fuego
+Fuego Pre
 Blue Bossun
 Video22
 Video23
