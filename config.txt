@@ -162,7 +162,7 @@ END-B
 RC
 
 #### CONSOLE MESSAGE #### use <br> instead of enter, message has to be on one line
-SAT_TRAVEL_ACCESS = True<br>Meadows<br>Boundless Blue<br>MASTER_SAT_001<br>Beach<br><br>Please explore the newly located zones. Standby for further Mighterium extraction instructions.<br>END_MSG
+connection_established...<br>Entity_Eng<br>He-Hey! Is this thing on?<br>This new robotic body is kind of wild! A-anyways...<br>I might have made a new technological discovery while you were all out in the field exploring.<br><br>Something that might help us collect more Mighterium...Let me work up a prototype and I'll send it up soon!<br>END_MSG
 
 #### MEMBERS ####
 AyumiKoi;Beany`;Bossun21;Gawain!;KaWaii_Sku11;Kugo;Luxifinity;Mixieǃ;~Silentt~;-Axer-;1AGuy;aaliyah1023;AbbiDuckAvali;AriesLatte;Azell;beheheh;Bimler;blackout_avali;BlackRoseThorns;Celia Trestia;ChepFoorie;connortron;Cookie597;Couper;Crow_Se7en;CurtisVL;DaBloodyResh;Dawnday;DISCORDTM306;Doruvon;DoubleDoubleD;DragonsofMania;Drakkius;Duest;ElegantPotato;EmberTalks;Eslaifer;EZZE;Feilen;FlareRune;Hangyaku;Heather May;Hex2906;King1656;Kire ｶｲｱ;Koi Fish Kai;Kyou Ki;Kyupus;Laskvurel;lavaglijder;LF Headpats;LisActivElite;luckygoodtime;MatterH0rn;Medx_ii;Michael21D;MichelleDB;MiisterC;Mike Da Bird;Molly Lovewing;Nosjo;PartyBas;Pearsall;Polaris°;PrincessJess;RDSparkle;RedVelvetCake;SamTheSilkie;Sapphirekatt;Shano Zen;SkrapKat;SleepieDragon;Snow Totem;Soukiie;SpeedyNova115;StarlightPastel;Succubus Jade;Talii-bit;TechnoF0x;TehDerpinatorVR;Tizzy;tom2609;TonyMacaron1;Univision;VennyStar;W01fc1aw;Wall Flowrawr;XAstroboomX;~ Tori ~;~Tarky;Κitsune;ＳＴＡＲＢＯＹ©;Poofimacat;zehith;Telray Ishuane;Uncle Skeletor;Avionora;Chardora;
