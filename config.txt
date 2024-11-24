@@ -1,6 +1,6 @@
 #### FIT FACTORY CLASS NAMES ####
-REACTOR
-Core Quest
+Eng1
+EngFinale
 Hero Academy
 Sports Ball
 EMPTY
@@ -70,7 +70,7 @@ Fuego
 Class5
 Class6
 Class7
-Class8
+Prototype
 Class9
 shuffle
 Meadows 1
@@ -134,8 +134,8 @@ Sat-A
 Sat-B
 BB-A
 BB-RACE
-Video8
-Video9
+ProtoBeach
+ProtoARC
 ARC Time Att
 Meadows Var-1
 Meadows Var-2
