@@ -16,7 +16,7 @@ Fish Factory LOWER
 Fish Factory CORE
 Fish Factory CARDIO
 Fish Factory 100
-Fuego
+FITMas
 Fish Challenge
 SpookFIT
 Knockout
@@ -48,7 +48,7 @@ DF4642
 F4BCCF
 EE9B76
 EB0D0D
-FF5757
+12461D
 4D8DBE
 FF9F10
 FF0000
@@ -65,7 +65,7 @@ A6AAB5
 #### ADVENTURE MODE BANNER NAMES ####
 Adventure
 3.0 Launch
-Class3
+FITMas
 Fuego
 Class5
 Class6
@@ -97,7 +97,7 @@ Class30
 #### ADVENTURE MODE BANNER HEX ####
 07c9f0
 fca815
-000000
+12461D
 fa938b
 000000
 000000
@@ -138,13 +138,13 @@ ProtoBeach
 ProtoARC
 ARC Time Att
 Meadows Var-1
-Meadows Var-2
+FITMas Meadows
 Blue Var-1
-Blue Var-2
+FITMas Blue
 SAT Var-1
-SAT Var-2
+FITMas SAT
 Beach Var-1
-Beach Var-2
+FITMas Beach
 Fuego
 Fuego Pre
 Blue Bossun
@@ -153,7 +153,7 @@ Video23
 Video24
 Video25
 Video26
-Video27
+END FITMas
 END Fuego
 END-A
 END-B
