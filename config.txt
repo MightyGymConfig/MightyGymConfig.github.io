@@ -168,6 +168,6 @@ connection_established...<br><br>He-Hey! Is this thing on?<br>This new robotic b
 AyumiKoi;Beany`;Bossun21;Coach Kugo;KaWaii_Sku11;Mixieǃ;SleepieDragon;VennyStar;___Wolfie__;_freckles_;-Axer-;~ Tori ~;~Silentt~;~Tarky;aaliyah1023;AbbiDuckAvali;AriesLatte;Avionora;Azell;blackout_avali;Blueberry Bud;Cakelington;Celia Trestia;Chardora;ChepFoorie;connortron;Cookie597;CookieFluffButt;Crow_Se7en;CurtisVL;DaBloodyResh;DJ_Molly;Doruvon;DoubleDoubleD;DragonsofMania;Drakkius;Duest;EinDev;ElegantPotato;EmberTalks;Ender257;Eric4bz;Eslaifer;EZZE;Feilen;FlareRune;Gawain!;Heather May;Hex2906;Hotoroti;InterVR;IsmaDr;Kanami;Kire ｶｲｱ;Κitsune;Kyou Ki;lavaglijder;LisActivElite;LuleVEVO;Luxifinity;Medx_ii;MetalGearWes;Michael21D;MichelleDB;Mike Da Bird;miso-vr;Naabe;Nosjo;NuclearHope;PartyBas;Pearsall;Polaris°;PrincessJess;RDSparkle;SakuraNiji;SamTheSilkie;Sapphirekatt;Shano Zen;Snow Totem;Soukiie;Talii-bit;Telray Ishuane;Tizzy;tom2609;TonyMacaron1;Uncle Skeletor;W01fc1aw;Wall Flowrawr;ZaraRose;zehith;
 
 #### VIPs ####
-Want to lose 10lbs using this VR Gym? We have Certified Personal Trainers right here in VR!<br><br> Visit: TheMightyGym.com/Coaching to get VIP coaching from our staff of certified fitness professionals!;
+Want to lose <b>10lbs</b> using this VR Gym? We have Certified Personal Trainers right here in VR!<br><br> Visit: <b>TheMightyGym.com/Coaching</b> to get VIP coaching from our staff of certified fitness professionals!;
 
 ## END
