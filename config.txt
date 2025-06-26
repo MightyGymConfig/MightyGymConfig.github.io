@@ -1,24 +1,24 @@
 #### FIT FACTORY CLASS NAMES ####
-Eng1
-EngFinale
+RC Class
+RC Intro
 Hero Academy
-Sports Ball
 EMPTY
 EMPTY
 EMPTY
 EMPTY
 EMPTY
-Heart Month
-Fish Factory V1
-Fish Factory V2
-Fish Factory UPPER
-Fish Factory LOWER
-Fish Factory CORE
-Fish Factory CARDIO
-Fish Factory 100
-FITMas
-Fish Challenge
-SpookFIT
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
 Knockout
 Valhalla
 Flex Forge
@@ -84,7 +84,7 @@ Bonfire 2
 Fuego
 Stretch
 CharJourney
-class22
+Plunder
 Class23
 Class24
 Class25
@@ -116,7 +116,7 @@ ff0000
 FF5757
 000000
 000000
-000000
+005FE0
 000000
 000000
 000000
@@ -134,17 +134,17 @@ Sat-A
 Sat-B
 BB-A
 BB-RACE
-ProtoBeach
-ProtoARC
-ARC Time Att
-Meadows Var-1
-FITMas Meadows
-Blue Var-1
-FITMas Blue
-SAT Var-1
-FITMas SAT
-Beach Var-1
-FITMas Beach
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
 Fuego
 Fuego Pre
 Blue Bossun
