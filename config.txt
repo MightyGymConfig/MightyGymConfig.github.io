@@ -84,8 +84,8 @@ Bonfire 2
 Fuego
 Stretch
 CharJourney
+Class22
 Plunder
-Class23
 Class24
 Class25
 Class26
@@ -114,10 +114,10 @@ ff0000
 000000
 000000
 FF5757
-000000
+FF5757
 000000
 005FE0
-000000
+005FE0
 000000
 000000
 000000
@@ -148,8 +148,8 @@ EMPTY
 Fuego
 Fuego Pre
 Blue Bossun
-Video22
-Video23
+Beach Warmup
+Plunder
 Video24
 Video25
 Video26
