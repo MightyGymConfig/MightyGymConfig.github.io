@@ -95,7 +95,7 @@ Wowwiieee 29
 Class30
 
 #### ADVENTURE MODE BANNER HEX ####
-07c9f0
+f44336
 fca815
 12461D
 fa938b
