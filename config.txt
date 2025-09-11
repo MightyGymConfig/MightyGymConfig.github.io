@@ -91,7 +91,7 @@ Knockout
 Valhalla
 FlexForge
 Primal
-Wowwiieee 29
+Dance Hour
 Class30
 
 #### ADVENTURE MODE BANNER HEX ####
@@ -123,7 +123,7 @@ FF5757
 000000
 000000
 FF5733
-000000
+24B14E
 000000
 
 #### ADVENTURE MODE VIDEO NAMES ####
