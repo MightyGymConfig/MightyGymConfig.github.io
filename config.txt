@@ -67,10 +67,10 @@ Adventure
 3.0 Launch
 FITMas
 Fuego
-Class5
+Night @Gym
 Class6
 Class7
-Prototype
+Beach Boogie
 Class9
 shuffle
 Meadows 1
@@ -99,10 +99,10 @@ f44336
 fca815
 12461D
 fa938b
+f80032
 000000
 000000
-000000
-000000
+ff001b
 000000
 ff0000
 000000
