@@ -63,26 +63,26 @@ ffa620
 ffa620
 
 #### ADVENTURE MODE BANNER NAMES ####
-Adventure
-3.0 Launch
-FITMas
-Fuego
-Night @Gym
-Class6
-Class7
+Adventure Mode
+Fit Factory
+Hero Academy
+Reactor
+Touch Grass
+A.R.C. Team Sat
+Game Show
 Beach Boogie
-Class9
-shuffle
-Meadows 1
-Meadows 2
-Blue 1
-Blue 2
-SAT 1
-SAT 2
-Bonfire 1
-Bonfire 2
+Night @Gym
+Shuffle
+Summer Jam
+Gym Jam
+Dance Hour
+[EMPTY]
+[EMPTY]
+Tempo Test
 Fuego
-Stretch
+Fuego Kugo
+Pre-patch Prototype
+XP Hunt
 Charlotte Journey
 Duality
 Plunder
@@ -90,41 +90,41 @@ TOTM
 Knockout
 Valhalla
 FlexForge
+[EMPTY]
 Primal
-Dance Hour
-Class30
+Meditation
 
 #### ADVENTURE MODE BANNER HEX ####
-f44336
-fca815
-12461D
-fa938b
-f80032
-000000
-000000
-ff001b
-000000
+ffa620
+ffa620
+ffa620
+ffa620
+ffa620
+ffa620
+ffa620
 ff0000
-000000
-000000
-000000
-000000
-000000
-000000
-000000
-000000
-FF5757
-FF5757
-000000
-005FE0
-005FE0
-000000
-000000
-000000
-000000
-FF5733
+ff0000
+ff0000
+ffa620
+ffa620
 24B14E
-ffa404
+ffa620
+ffa620
+ffa620
+fa938b
+fa938b
+ffa620
+ffa620
+005FE0
+005FE0
+005FE0
+640707
+FF0000
+13548D
+A6AAB5
+ffa620
+FF5733
+8f5bbd
 
 #### ADVENTURE MODE VIDEO NAMES ####
 MM-A
