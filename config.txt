@@ -75,11 +75,11 @@ Night @Gym
 Shuffle
 Summer Jam
 Gym Jam
-Dance Hour
+Cake Dance Hour
 [EMPTY]
 [EMPTY]
 Tempo Test
-Fuego
+Fuego 1.0
 Fuego Kugo
 Pre-patch Prototype
 XP Hunt
@@ -92,7 +92,7 @@ Valhalla
 FlexForge
 [EMPTY]
 Primal
-Meditation
+Mighty Mind
 
 #### ADVENTURE MODE BANNER HEX ####
 ffa620
