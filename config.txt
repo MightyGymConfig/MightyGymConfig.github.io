@@ -162,7 +162,7 @@ END-B
 RC
 
 #### CONSOLE MESSAGE #### use <br> instead of enter, message has to be on one line
-connection_established...<br><br>He-Hey! Can you see this? <br><br>With that tree sprouting up through the gym I wasn't sure if the connection would still hold!<br><br>Looks like ol' RC spilled the beans on why she built this gym here...<br><br>I can't believe there was ANOTHER planet!<br><br>I'll take the CCTV footage and reupload it for ya if you missed it - go look for a corrupted video file in The Arcade!<br><br>Safe sweatin'!<br><br>-HEAD_ENGINEER
+...Hey! I don't think my message came through the video feed clearly! <br> This is going to sound very, VERY weird - but we need to perform a ritual to cleanse the lobby of excess energy that leaked its way up from The EGG.<br> I need you to:<br> 1) Capture evidence of a gym member getting an S+ on an arcade machine <br> 2) Take said evidence down to the Yoga Theater, and create some kind of ritual circle...maybe with some sort of gym equipment? <br> 3) Place the evidence in the circle, and convince the coach to queue up Arm Circles.<br> Trust me! - Eng
 
 #### MEMBERS ####
 Null;
