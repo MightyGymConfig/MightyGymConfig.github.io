@@ -1,7 +1,7 @@
 #### FIT FACTORY CLASS NAMES ####
-EMPTY
-EMPTY
-EMPTY
+RC Class
+RC Intro
+Hero Academy
 EMPTY
 EMPTY
 EMPTY
@@ -19,11 +19,11 @@ EMPTY
 EMPTY
 EMPTY
 EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
+Knockout
+Valhalla
+Flex Forge
+Valha Broken
+TOTM
 EMPTY
 EMPTY
 EMPTY
