@@ -150,10 +150,10 @@ Fuego Pre
 Blue Bossun
 Beach Warmup
 Plunder
-Video24
-Video25
-Video26
-END FITMas
+EMPTY
+EMPTY
+EMPTY
+EMPTY
 END Fuego
 END-A
 END-B
