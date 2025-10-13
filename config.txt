@@ -13,7 +13,7 @@ Rest
 BOMB
 WIN
 LOSE
-HOPE
+HIDE
 ESCAPE
 -
 -
