@@ -2,9 +2,9 @@
 RC Class
 Game Show
 Hero Academy
-EMPTY
-EMPTY
-EMPTY
+-
+-
+-
 Doom Factory PRE
 CHOOSE
 FREEZE
@@ -15,20 +15,20 @@ WIN
 LOSE
 HOPE
 ESCAPE
-EMPTY
-EMPTY
-EMPTY
-EMPTY
+-
+-
+-
+-
 Knockout
 Valhalla
 Flex Forge
 Valha Broken
 TOTM
-EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
+-
+-
+-
+-
+-
  
 #### FIT FACTORY CLASS HEX ####
 ffa620
@@ -76,8 +76,8 @@ Shuffle
 Summer Jam
 Gym Jam
 Cake Dance Hour
-[EMPTY]
-[EMPTY]
+-
+-
 Tempo Test
 Fuego 1.0
 Fuego Kugo
@@ -90,7 +90,7 @@ TOTM
 Knockout
 Valhalla
 FlexForge
-[EMPTY]
+-
 Primal
 Mighty Mind
 
@@ -135,25 +135,25 @@ Sat-B
 BB-A
 BB-RACE
 Beach Boogie
-H-Stage
+-
 H-Meadow
-EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
-EMPTY
+-
+-
+-
+-
+-
+-
+-
+-
 Fuego
 Fuego Pre
 Blue Bossun
 Beach Warmup
 Plunder
-EMPTY
-EMPTY
-EMPTY
-EMPTY
+Video24
+Video25
+Video26
+END FITMas
 END Fuego
 END-A
 END-B
