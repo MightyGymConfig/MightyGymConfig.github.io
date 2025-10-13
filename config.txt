@@ -2,9 +2,9 @@
 RC Class
 Game Show
 Hero Academy
-
-
-
+-
+-
+-
 Doom Factory PRE
 CHOOSE
 FREEZE
@@ -135,7 +135,7 @@ Sat-B
 BB-A
 BB-RACE
 Beach Boogie
--
+H-Stage
 H-Meadow
 -
 -
@@ -150,9 +150,9 @@ Fuego Pre
 Blue Bossun
 Beach Warmup
 Plunder
-Video24
-Video25
-Video26
+-
+-
+-
 END FITMas
 END Fuego
 END-A
