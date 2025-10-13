@@ -1,6 +1,6 @@
 #### FIT FACTORY CLASS NAMES ####
 RC Class
-RC Intro
+Game Show
 Hero Academy
 EMPTY
 EMPTY
