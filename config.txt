@@ -71,13 +71,13 @@ Touch Grass
 A.R.C. Team Sat
 Game Show
 Beach Boogie
-Doom Factory
+Night @Gym
 Shuffle
 Summer Jam
 Gym Jam
+Elemental Flow
+-
 Cake Dance Hour
--
--
 Tempo Test
 Fuego 1.0
 Fuego Kugo
@@ -109,7 +109,7 @@ ffa620
 ffa620
 24B14E
 ffa620
-ffa620
+24B14E
 ffa620
 fa938b
 fa938b
@@ -137,7 +137,7 @@ BB-RACE
 Beach Boogie
 H-Stage
 H-Meadow
--
+Elemental Flow
 -
 -
 -
