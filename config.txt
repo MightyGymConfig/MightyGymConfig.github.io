@@ -4,7 +4,7 @@ Game Show
 Hero Academy
 -
 -
--
+Funky Factory
 Doom Factory PRE
 CHOOSE
 FREEZE
@@ -72,11 +72,11 @@ A.R.C. Team Sat
 Game Show
 Beach Boogie
 Night @Gym
-Coach Challenge
+Shuffle
 Summer Jam
 Gym Jam
 Elemental Flow
--
+Funky Factory
 Cake Dance Hour
 Tempo Test
 Fuego 1.0
@@ -108,7 +108,7 @@ ff0000
 ffa620
 ffa620
 24B14E
-ffa620
+bc1ce0
 24B14E
 ffa620
 fa938b
