@@ -77,7 +77,7 @@ Summer Jam
 Gym Jam
 Elemental Flow
 Funky Factory
-Cake Dance Hour
+Burn Labs
 Tempo Test
 Fuego 1.0
 Fuego Kugo
@@ -109,7 +109,7 @@ ffa620
 ffa620
 24B14E
 bc1ce0
-24B14E
+ffa620
 ffa620
 fa938b
 fa938b
