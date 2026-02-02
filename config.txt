@@ -72,14 +72,14 @@ A.R.C. Team Sat
 Game Show
 Beach Boogie
 Night @Gym
-Coach Challenge (Shuffle)
+Shuffle Coach Challenge
 Summer Jam
 Gym Jam
 Elemental Flow
 Funky Factory
 Burn Labs
 Tempo Test
-Fuego 1.0
+Core Protocol
 Fuego Kugo
 Pre-patch Prototype
 XP Hunt
@@ -111,7 +111,7 @@ ffa620
 bc1ce0
 ffa620
 ffa620
-fa938b
+ffa620
 fa938b
 ffa620
 ffa620
