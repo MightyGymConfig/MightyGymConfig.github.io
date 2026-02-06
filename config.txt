@@ -77,11 +77,11 @@ Summer Jam
 Gym Jam
 Elemental Flow
 Funky Factory
-Burn Labs
+(Com) Burn Labs
 Tempo Test
 Core Protocol
-Fuego Kugo
-Pre-patch Prototype
+(Com) Shark Shuffle
+(Com) Dance Deep
 XP Hunt
 Charlotte Journey
 Duality
@@ -109,11 +109,11 @@ ffa620
 ffa620
 24B14E
 bc1ce0
+d10056
 ffa620
 ffa620
-ffa620
-fa938b
-ffa620
+fa86c4
+6baed6
 ffa620
 005FE0
 005FE0
