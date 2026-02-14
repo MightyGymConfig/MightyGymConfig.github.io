@@ -3,7 +3,7 @@ RC Class
 Game Show
 Hero Academy
 -
--
+Mighty Kun High
 Funky Factory
 Doom Factory PRE
 CHOOSE
@@ -15,8 +15,8 @@ WIN
 LOSE
 HIDE
 ESCAPE
--
--
+swamp
+fuego 1.0
 -
 -
 Knockout
@@ -28,7 +28,7 @@ TOTM
 -
 -
 -
---
+-
  
 #### FIT FACTORY CLASS HEX ####
 ffa620
