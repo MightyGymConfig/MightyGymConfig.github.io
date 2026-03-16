@@ -2,9 +2,9 @@
 RC Class
 Game Show
 Hero Academy
--
 Mighty Kun High
 Funky Factory
+Funky Factory 2.0
 Doom Factory PRE
 CHOOSE
 FREEZE
