@@ -1,4 +1,4 @@
-#### FIT FACTORY VIDEO NAMES ####
+---- FIT FACTORY VIDEO NAMES ---- (previously: FIT FACTORY CLASS NAMES)
 RC Class
 Game Show
 Hero Academy
@@ -30,7 +30,7 @@ TOTM
 -
 -
  
-#### [DEPRECATED] FIT FACTORY BANNER HEX ####
+---- [DEPRECATED] FIT FACTORY BANNER HEX ----
 ffa620
 ffa620
 ffa620
@@ -62,7 +62,7 @@ ffa620
 ffa620
 ffa620
 
-#### ADVENTURE MODE BANNER NAMES ####
+---- CLASS NAMES ---- (previously: ADVENTURE MODE BANNER NAMES)
 Adventure Mode
 Fit Factory
 Hero Academy
@@ -94,7 +94,7 @@ Mighty Kun High
 (Com) La Fortaleza
 Mighty Mind
 
-#### ADVENTURE MODE BANNER HEX ####
+#### CLASS SCORECARD BORDER COLOR HEX CODES #### (previously: ADVENTURE MODE BANNER HEX)
 ffa620
 ffa620
 ffa620
