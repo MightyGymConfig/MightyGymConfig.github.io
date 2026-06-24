@@ -11,7 +11,7 @@ MD Start
 FEAR
 MD Bad Sweatlands
 BOMB
-WIN
+MD Fav Castle
 LOSE
 HIDE
 ESCAPE
