@@ -17,7 +17,7 @@ MD Fav Tombara
 ESCAPE
 MD Roll 20
 MD Boss Loss
--
+MD Boss Win
 -
 Knockout
 Valhalla
