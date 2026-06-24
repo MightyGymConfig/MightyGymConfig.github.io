@@ -16,7 +16,7 @@ LOSE
 MD Fav Tombara
 ESCAPE
 MD Roll 20
-fuego 1.0
+MD Boss Loss
 -
 -
 Knockout
