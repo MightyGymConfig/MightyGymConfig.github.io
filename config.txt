@@ -13,7 +13,7 @@ MD Bad Sweatlands
 BOMB
 MD Fav Castle
 LOSE
-HIDE
+MD Fav Tombara
 ESCAPE
 swamp
 fuego 1.0
