@@ -15,7 +15,7 @@ MD Fav Tombara
 MD Roll 1
 MD Roll 20
 Boss Harara
-MD Roll 20
+MD Boss Win
 Boss Harara
 MD Boss Win
 Boss Lose
