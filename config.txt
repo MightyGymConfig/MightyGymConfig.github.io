@@ -17,7 +17,7 @@ MD Roll 20
 Boss Harara
 MD Boss Win
 
-MD Boss Win
+
 Boss Lose
 Knockout
 Valhalla
