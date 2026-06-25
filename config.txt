@@ -10,7 +10,7 @@ CHOOSE
 MD Start
 MD Bad Harara
 MD Bad Sweatlands
-BOMB
+MD Bad Tombara
 MD Fav Castle
 LOSE
 MD Fav Tombara
