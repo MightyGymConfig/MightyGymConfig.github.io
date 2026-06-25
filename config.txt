@@ -18,7 +18,7 @@ MD Boss Harara
 MD Boss Win
 MD Boss Lose
 
-Boss Lose
+
 Knockout
 Valhalla
 Flex Forge
