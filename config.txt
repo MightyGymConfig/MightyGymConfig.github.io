@@ -92,7 +92,7 @@ Valhalla
 FlexForge
 [Com] Squat Am I?
 (Com) La Fortaleza
-Mighty Mind
+Vitality
 
 #### CLASS SCORECARD BORDER COLOR HEX CODES #### (previously: ADVENTURE MODE BANNER HEX)
 ffa620
