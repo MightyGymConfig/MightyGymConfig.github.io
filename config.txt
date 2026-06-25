@@ -12,7 +12,7 @@ MD Bad Harara
 MD Bad Sweatlands
 MD Bad Tombara
 MD Fav Castle
-LOSE
+MD Fav Harara
 MD Fav Tombara
 ESCAPE
 MD Roll 20
