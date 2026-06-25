@@ -14,7 +14,7 @@ MD Bad Tombara
 MD Fav Castle
 MD Fav Harara
 MD Fav Tombara
-ESCAPE
+MD Roll 1
 MD Roll 20
 MD Boss Loss
 MD Boss Win
