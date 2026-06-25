@@ -13,7 +13,7 @@ MD Fav Castle
 MD Fav Harara
 MD Fav Tombara
 MD Roll 1
-MD Fav Tombara
+MD Roll 20
 MD Roll 1
 MD Roll 20
 Boss Harara
