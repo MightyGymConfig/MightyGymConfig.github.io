@@ -14,7 +14,7 @@ MD Fav Harara
 MD Fav Tombara
 MD Roll 1
 MD Roll 20
-Boss Harara
+MD Boss Harara
 MD Boss Win
 
 
