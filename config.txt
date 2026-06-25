@@ -12,7 +12,7 @@ MD Bad Tombara
 MD Fav Castle
 MD Fav Harara
 MD Fav Tombara
-MD Fav Harara
+MD Roll 1
 MD Fav Tombara
 MD Roll 1
 MD Roll 20
