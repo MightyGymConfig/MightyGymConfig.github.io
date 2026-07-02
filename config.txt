@@ -68,7 +68,7 @@ Fit Factory
 Hero Academy
 Reactor
 Touch Grass
-A.R.C. Team Sat
+Mighty Dungeon
 Game Show
 HamPacer
 Coach Challenge
@@ -100,7 +100,7 @@ ffa620
 ffa620
 ffa620
 00A321
-ffa620
+A86500
 ffa620
 FE7171
 ff0000
