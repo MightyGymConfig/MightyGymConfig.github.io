@@ -64,7 +64,7 @@ ffa620
 
 ---- CLASS SCORECARD BANNER NAMES ---- (previously: ADVENTURE MODE BANNER NAMES)
 Adventure Mode
-Fit Factory
+Gym Wars
 Hero Academy
 Reactor
 Touch Grass
@@ -96,7 +96,7 @@ Vitality
 
 #### CLASS SCORECARD BORDER COLOR HEX CODES #### (previously: ADVENTURE MODE BANNER HEX)
 ffa620
-ffa620
+FF0000
 ffa620
 ffa620
 00A321
