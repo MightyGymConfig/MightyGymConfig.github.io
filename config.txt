@@ -142,7 +142,7 @@ Funky Factory (1.0 vert)
 -
 -
 -
--
+Funky Factory (2.0 vert)
 -
 -
 Fuego
