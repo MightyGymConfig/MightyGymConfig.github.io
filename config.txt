@@ -80,7 +80,7 @@ Funky Factory
 (Com) Burn Labs
 (Com) Riptide River
 (Com) Weekly Reflections
-(Com) Shark Shuffle
+(Com) Mighty Gymmy COM
 (Com) Dancing Deep
 (Com) Helping Hands
 Charlotte Journey
@@ -112,7 +112,7 @@ bc1ce0
 d10056
 ffa620
 a94db4
-fa86c4
+27217D
 6baed6
 00c1ae
 005FE0
