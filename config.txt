@@ -135,7 +135,7 @@ Sat-B
 BB-A
 BB-RACE
 Beach Boogie
-H-Stage
+Far Reach
 H-Meadow
 Elemental Flow
 Funky Factory (1.0 vert)
